@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730017097749",
+    "project_id": "howfar-chat",
+    "storage_bucket": "howfar-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730017097749:android:441d13d7591aae93a5861c",
+        "android_client_info": {
+          "package_name": "com.example.howfarchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730017097749-rop6gl7p63jmb8f40oqv48toa8r2ddun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0d6Uk0sKTnLtGuGmCGeMlCSafYzn2rFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730017097749-rop6gl7p63jmb8f40oqv48toa8r2ddun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
